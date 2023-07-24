@@ -1,0 +1,22 @@
+INÍCIO
+	1 Acordo e permaneço deitado
+	2 Confiro meus e-mails e algumas mensagens
+	3 Levanto 
+	4 Escovo os dentes
+	5 Confiro água e ração da minha gata
+	6 Tem água e ração? Não
+		1 Pego a ração
+		2 Coloco no pote
+		3 Pego o pote de água
+		4 Coloco água
+	7 Sim
+	8 Limpo a caixa de areia da gata
+	9 Lavo as mãos
+	10 Preparo um café
+	11 Preparo algo para comer
+	12 Tomo café da manhã
+	13 Escovo os dentes
+	14 Tomo banho
+FIM
+	
+	
